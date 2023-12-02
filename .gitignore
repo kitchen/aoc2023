@@ -12,3 +12,8 @@ Cargo.lock
 
 # MSVC Windows builds of rustc generate these, which store debugging information
 *.pdb
+
+# I forgot to copy part1 to part2 before I started working on part2 so I lost
+# part1, but also my part2 was pretty shameful anyways so I'm just not going
+# to commit day1 ;-)
+day1/
