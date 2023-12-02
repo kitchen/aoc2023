@@ -17,3 +17,5 @@ Cargo.lock
 # part1, but also my part2 was pretty shameful anyways so I'm just not going
 # to commit day1 ;-)
 day1/
+
+day*/input.txt
